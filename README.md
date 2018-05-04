@@ -7,6 +7,12 @@ Mon cadavre parraissait si exquis à leurs yeux.
 
 Qu'ils n'attendirent pas longtemps pour y goûter.
 
+*Ils mon fait frite dans de l'huile* et l'ont service sous un oeuf au plat.
+
+Un gourmet donna 5 étoils au restaurant.
+
+Quand *le serveur dit au gourmet* qu'il a mangée une personne,
+à mis *le gourmet dans les pommes.*
 >Mon bac est vide, qui m'accompagne au paki pour en racheter?
 
 Prenant mon courage a deux mains je pris mon manteau pour affronter le froid rude de cet hiver.
