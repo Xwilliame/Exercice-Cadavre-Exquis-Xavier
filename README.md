@@ -24,3 +24,18 @@ L'oiseau recontra le gars avec son manteau et lui dit:
 -*Hey mon gars what's up ?*
 
 Le jeune homme fit mine de rien et s'en alla.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+```git
+git merge name_branch
+git push origin name_branch
+```
+
+> **WebDev un jour, WebDev toujours.**
