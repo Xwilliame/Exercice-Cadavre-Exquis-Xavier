@@ -1,5 +1,5 @@
 # Exercice-Cadavre-Exquis-Xavier
-##Mon Cadavre Exquis
+##Mon Cadavre Exquis // Corrections
 
 Mon corps sans vie allongé sur le sol,...
 
