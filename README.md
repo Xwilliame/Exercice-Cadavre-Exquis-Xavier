@@ -58,3 +58,13 @@ git push origin name_branch
 C'est ainsi que la race humaine (re)decouvrit le goût de sa propre chair. 
 
 
+
+## Nouvelle Histoire
+
+
+Un vieil indien explique à son petit fils que chacun de nous a en lui 
+*deux loups* qui se livrent bataille. 
+* Le premier loup représente la sérénité, l’amour et la gentillesse. 
+* Le second loup représente la peur 
+l’avidité et la haine. « Lequel des deux loups gagne ? « demande 
+l’enfant. « Celui que l’on nourrit. » Répond le grand père.
