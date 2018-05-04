@@ -19,3 +19,8 @@ Prenant mon courage a deux mains je pris mon manteau pour affronter le froid rud
 	</code>
 </pre>
 
+L'oiseau recontra le gars avec son manteau et lui dit:
+
+-*Hey mon gars what's up ?*
+
+Le jeune homme fit mine de rien et s'en alla.
